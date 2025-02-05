@@ -18,8 +18,8 @@ Hi there 👋 I’m Yash!
 	•	🛠 Circuit design,PYTON ,HTML, CSS embedded systems, and automation solutions.
 
 📫 How to reach me:
-	•	📧 Email: [yashkuamr1815@gmail.com.com]
-	•	🔗 LinkedIn: linkedin.com/in/yash-yourprofile
+	•	📧 Email: yashkuamr1815@gmail.com.com
+	•	🔗 LinkedIn: https://www.linkedin.com/in/yash-303149289/
 
 📂 All of my projects are available at:
 	•	GitHub Profile
