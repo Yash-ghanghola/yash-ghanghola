@@ -40,13 +40,13 @@ Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
 ---
 
 ## 📫 How to reach me:  
-- 📧 Email: [yashkuamr1815@gmail.com](mailto:yashkuamr1815@gmail.com)  
+- 📧 Email: [yashkuamr1815@gmail.com](mailto:yashkumar1815@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/yash-303149289](https://www.linkedin.com/in/yash-303149289/)  
 
 ---
 
 ## 📂 All of my projects are available at:  
-- [My GitHub Profile](https://github.com/yourusername)  
+- [My GitHub Profile](https://github.com/Yash-ghanghola)  
 
 📝 I regularly write articles on:  
 - 📄 Tech topics and project breakdowns  
