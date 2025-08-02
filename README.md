@@ -40,7 +40,7 @@ Python | Pandas | Matplotlib | Seaborn | Jupyter Notebook
 ---
 
 ## 📫 How to reach me:  
-- 📧 Email: [yashkuamr1815@gmail.com](mailto:yashkumar1815@gmail.com)  
+- 📧 Email: [yashkumar1815@gmail.com](mailto:yashkumar1815@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/yash-303149289](https://www.linkedin.com/in/yash-303149289/)  
 
 ---
